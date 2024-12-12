@@ -1,1 +1,1 @@
-console.log("init * 2 111")
+console.log("init * 2 1111")
